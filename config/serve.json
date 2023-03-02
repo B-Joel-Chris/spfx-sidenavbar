@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://td6by.sharepoint.com/sites/team/SitePages/Home.aspx",
+      "pageUrl": "https://vvm8d.sharepoint.com/sites/team/SitePages/Home.aspx",
       "customActions": {
         "df31b17d-e199-43ae-a0a0-3804e31ed96b": {
           "location": "ClientSideExtension.ApplicationCustomizer",
